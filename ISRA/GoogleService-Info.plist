@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>923121460195-hk6c0bpduk9ti6p1rimc3khjage31pqn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.923121460195-hk6c0bpduk9ti6p1rimc3khjage31pqn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAY08vSHSsmLiq2J761BSHU05N9qhVx7KM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>923121460195</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.icqcmasjid.app</string>
+	<key>PROJECT_ID</key>
+	<string>icqc-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>icqc-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:923121460195:ios:1042211df156a80df2b6d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://icqc-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

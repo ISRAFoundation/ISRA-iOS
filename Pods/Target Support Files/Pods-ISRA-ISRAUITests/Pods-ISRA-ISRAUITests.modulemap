@@ -1,0 +1,6 @@
+framework module Pods_ISRA_ISRAUITests {
+  umbrella header "Pods-ISRA-ISRAUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
